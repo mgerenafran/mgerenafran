@@ -1,16 +1,15 @@
-## Hi there 👋
+# Maddy Franco
+####  CPS Computer Science Teacher
+-   🔭 I’m currently working on Curriculum for AP Cybersecurity
+-   🌱 I’m currently learning additional features in GitHub
+-   👯 I’m looking to collaborate with additional Computer Science Teacher and Cybersecurity Specialist
+-   🤔 I’m looking for help with identifying important skills for students to learn.
 
-<!--
-**mgerenafran/mgerenafran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####    📫 Courses Taught:
+-    Exploring Computer Science
+-   IT Problem Solving (Computational Thinking)
+-   AP Comp Sci Principles
+-   AP Cybersecurity 
+-   MakerSpace
+-   Comp Sci Independent Studies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
